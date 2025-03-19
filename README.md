@@ -7,8 +7,13 @@ Projeto pessoal para aprimorar minhas habilidades em programação, aplicando os
 🛠️ Tecnologias Utilizadas
 Frontend: HTML, CSS e JavaScript
 Frameworks e Bibliotecas: (Adicionar caso utilize algum, como Bootstrap, React, etc.)
+
+
 🚀 Objetivo
 Este projeto tem como finalidade o desenvolvimento de um site funcional e intuitivo para o restaurante fictício Sakura, permitindo praticar conceitos de desenvolvimento web, design responsivo e interatividade.
+
+
+
 
 🔥 Funcionalidades
 ✅ Página inicial com informações do restaurante
